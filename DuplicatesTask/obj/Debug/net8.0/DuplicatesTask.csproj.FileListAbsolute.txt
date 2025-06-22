@@ -1,0 +1,14 @@
+C:\Users\Dan\source\repos\TestAssignment\DuplicatesTask\bin\Debug\net8.0\DuplicatesTask.exe
+C:\Users\Dan\source\repos\TestAssignment\DuplicatesTask\bin\Debug\net8.0\DuplicatesTask.deps.json
+C:\Users\Dan\source\repos\TestAssignment\DuplicatesTask\bin\Debug\net8.0\DuplicatesTask.runtimeconfig.json
+C:\Users\Dan\source\repos\TestAssignment\DuplicatesTask\bin\Debug\net8.0\DuplicatesTask.dll
+C:\Users\Dan\source\repos\TestAssignment\DuplicatesTask\bin\Debug\net8.0\DuplicatesTask.pdb
+C:\Users\Dan\source\repos\TestAssignment\DuplicatesTask\obj\Debug\net8.0\DuplicatesTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\source\repos\TestAssignment\DuplicatesTask\obj\Debug\net8.0\DuplicatesTask.AssemblyInfoInputs.cache
+C:\Users\Dan\source\repos\TestAssignment\DuplicatesTask\obj\Debug\net8.0\DuplicatesTask.AssemblyInfo.cs
+C:\Users\Dan\source\repos\TestAssignment\DuplicatesTask\obj\Debug\net8.0\DuplicatesTask.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\TestAssignment\DuplicatesTask\obj\Debug\net8.0\DuplicatesTask.dll
+C:\Users\Dan\source\repos\TestAssignment\DuplicatesTask\obj\Debug\net8.0\refint\DuplicatesTask.dll
+C:\Users\Dan\source\repos\TestAssignment\DuplicatesTask\obj\Debug\net8.0\DuplicatesTask.pdb
+C:\Users\Dan\source\repos\TestAssignment\DuplicatesTask\obj\Debug\net8.0\DuplicatesTask.genruntimeconfig.cache
+C:\Users\Dan\source\repos\TestAssignment\DuplicatesTask\obj\Debug\net8.0\ref\DuplicatesTask.dll

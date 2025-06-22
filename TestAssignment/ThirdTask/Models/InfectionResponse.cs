@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace TestAssignment.Models.StarTrek
+namespace SwapiAndStartrekTasks.ThirdTask.Models
 {
     public class InfectionResponse
     {

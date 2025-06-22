@@ -1,4 +1,4 @@
-﻿namespace TestAssignment.Models.Swapi
+﻿namespace SwapiAndStartrekTasks.SecondTask.Models
 {
     public class StarshipsByPilotPlanetResponse
     {

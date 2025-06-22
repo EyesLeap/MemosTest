@@ -1,7 +1,7 @@
-﻿using TestAssignment.Exceptions;
-using TestAssignment.Models.StarTrek;
+﻿using SwapiAndStartrekTasks.ThirdTask.Models;
+using TestAssignment.Exceptions;
 
-namespace TestAssignment.Services.StarTrek
+namespace SwapiAndStartrekTasks.ThirdTask.Services
 {
     public class CrewGraph
     {

@@ -1,6 +1,6 @@
 using TestAssignment.Exceptions;
-using TestAssignment.Services.Swapi;
 using TestAssignment.SecondTask;
+using SwapiAndStartrekTasks.SecondTask.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

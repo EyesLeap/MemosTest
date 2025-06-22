@@ -1,7 +1,7 @@
-﻿using TestAssignment.Exceptions;
-using TestAssignment.Models.Swapi;
+﻿using SwapiAndStartrekTasks.SecondTask.Models;
+using TestAssignment.Exceptions;
 
-namespace TestAssignment.Services.Swapi
+namespace SwapiAndStartrekTasks.SecondTask.Services
 {
     public class StarshipService
     {

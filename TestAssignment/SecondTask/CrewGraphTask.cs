@@ -1,5 +1,5 @@
-﻿using TestAssignment.Models.StarTrek;
-using TestAssignment.Services.StarTrek;
+﻿using SwapiAndStartrekTasks.ThirdTask.Models;
+using SwapiAndStartrekTasks.ThirdTask.Services;
 
 namespace TestAssignment.SecondTask
 {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SwapiAndStartrekTasks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+742ad9361239513f012c71579e72d9d63d7bd787")]
 [assembly: System.Reflection.AssemblyProductAttribute("SwapiAndStartrekTasks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SwapiAndStartrekTasks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

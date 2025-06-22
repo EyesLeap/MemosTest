@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{CDDD3C44-7B2B-4841-9F8B-08524AC4A788}|TestAssignment\\SwapiAndStartrekTasks.csproj|solutionrelative:testassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CDDD3C44-7B2B-4841-9F8B-08524AC4A788}|TestAssignment\\SwapiAndStartrekTasks.csproj|c:\\users\\dan\\source\\repos\\testassignment\\testassignment\\secondtask\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDD3C44-7B2B-4841-9F8B-08524AC4A788}|TestAssignment\\SwapiAndStartrekTasks.csproj|solutionrelative:testassignment\\secondtask\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDD3C44-7B2B-4841-9F8B-08524AC4A788}|TestAssignment\\SwapiAndStartrekTasks.csproj|c:\\users\\dan\\source\\repos\\testassignment\\testassignment\\thirdtask\\services\\crewgraphservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDD3C44-7B2B-4841-9F8B-08524AC4A788}|TestAssignment\\SwapiAndStartrekTasks.csproj|solutionrelative:testassignment\\thirdtask\\services\\crewgraphservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDD3C44-7B2B-4841-9F8B-08524AC4A788}|TestAssignment\\SwapiAndStartrekTasks.csproj|c:\\users\\dan\\source\\repos\\testassignment\\testassignment\\secondtask\\services\\starshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDD3C44-7B2B-4841-9F8B-08524AC4A788}|TestAssignment\\SwapiAndStartrekTasks.csproj|solutionrelative:testassignment\\secondtask\\services\\starshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDD3C44-7B2B-4841-9F8B-08524AC4A788}|TestAssignment\\SwapiAndStartrekTasks.csproj|c:\\users\\dan\\source\\repos\\testassignment\\testassignment\\thirdtask\\models\\crewmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDD3C44-7B2B-4841-9F8B-08524AC4A788}|TestAssignment\\SwapiAndStartrekTasks.csproj|solutionrelative:testassignment\\thirdtask\\models\\crewmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CDDD3C44-7B2B-4841-9F8B-08524AC4A788}|TestAssignment\\SwapiAndStartrekTasks.csproj|c:\\users\\dan\\source\\repos\\testassignment\\testassignment\\swapiandstartrektasks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{CDDD3C44-7B2B-4841-9F8B-08524AC4A788}|TestAssignment\\SwapiAndStartrekTasks.csproj|solutionrelative:testassignment\\swapiandstartrektasks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -15,24 +31,12 @@
       "RelativeMoniker": "D:0:0:{3B9AF6EE-5F33-448D-A088-655284CEE9C2}|DuplicatesTask\\DuplicatesTask.csproj|solutionrelative:duplicatestask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDDD3C44-7B2B-4841-9F8B-08524AC4A788}|TestAssignment\\SwapiAndStartrekTasks.csproj|c:\\users\\dan\\source\\repos\\testassignment\\testassignment\\secondtask\\services\\swapi\\starshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDDD3C44-7B2B-4841-9F8B-08524AC4A788}|TestAssignment\\SwapiAndStartrekTasks.csproj|solutionrelative:testassignment\\secondtask\\services\\swapi\\starshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDDD3C44-7B2B-4841-9F8B-08524AC4A788}|TestAssignment\\SwapiAndStartrekTasks.csproj|c:\\users\\dan\\source\\repos\\testassignment\\testassignment\\secondtask\\services\\swapi\\swapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDDD3C44-7B2B-4841-9F8B-08524AC4A788}|TestAssignment\\SwapiAndStartrekTasks.csproj|solutionrelative:testassignment\\secondtask\\services\\swapi\\swapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDDD3C44-7B2B-4841-9F8B-08524AC4A788}|TestAssignment\\SwapiAndStartrekTasks.csproj|c:\\users\\dan\\source\\repos\\testassignment\\testassignment\\secondtask\\services\\swapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDD3C44-7B2B-4841-9F8B-08524AC4A788}|TestAssignment\\SwapiAndStartrekTasks.csproj|solutionrelative:testassignment\\secondtask\\services\\swapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDDD3C44-7B2B-4841-9F8B-08524AC4A788}|TestAssignment\\SwapiAndStartrekTasks.csproj|c:\\users\\dan\\source\\repos\\testassignment\\testassignment\\secondtask\\exceptions\\planetnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDDD3C44-7B2B-4841-9F8B-08524AC4A788}|TestAssignment\\SwapiAndStartrekTasks.csproj|solutionrelative:testassignment\\secondtask\\exceptions\\planetnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDDD3C44-7B2B-4841-9F8B-08524AC4A788}|TestAssignment\\SwapiAndStartrekTasks.csproj|c:\\users\\dan\\source\\repos\\testassignment\\testassignment\\thirdtask\\services\\startrek\\crewgraphservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDDD3C44-7B2B-4841-9F8B-08524AC4A788}|TestAssignment\\SwapiAndStartrekTasks.csproj|solutionrelative:testassignment\\thirdtask\\services\\startrek\\crewgraphservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDDD3C44-7B2B-4841-9F8B-08524AC4A788}|TestAssignment\\SwapiAndStartrekTasks.csproj|c:\\users\\dan\\source\\repos\\testassignment\\testassignment\\thirdtask\\models\\startrek\\crewmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDDD3C44-7B2B-4841-9F8B-08524AC4A788}|TestAssignment\\SwapiAndStartrekTasks.csproj|solutionrelative:testassignment\\thirdtask\\models\\startrek\\crewmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDDD3C44-7B2B-4841-9F8B-08524AC4A788}|TestAssignment\\SwapiAndStartrekTasks.csproj|c:\\users\\dan\\source\\repos\\testassignment\\testassignment\\secondtask\\crewgraphtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,6 +61,19 @@
           "SelectedChildIndex": 11,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\SecondTask\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "TestAssignment\\SecondTask\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\SecondTask\\Models\\Person.cs",
+              "RelativeToolTip": "TestAssignment\\SecondTask\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T23:39:20.674Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
@@ -78,42 +95,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SwapiService.cs",
-              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\SecondTask\\Services\\Swapi\\SwapiService.cs",
-              "RelativeDocumentMoniker": "TestAssignment\\SecondTask\\Services\\Swapi\\SwapiService.cs",
-              "ToolTip": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\SecondTask\\Services\\Swapi\\SwapiService.cs",
-              "RelativeToolTip": "TestAssignment\\SecondTask\\Services\\Swapi\\SwapiService.cs",
+              "DocumentIndex": 2,
+              "Title": "CrewGraphService.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\ThirdTask\\Services\\CrewGraphService.cs",
+              "RelativeDocumentMoniker": "TestAssignment\\ThirdTask\\Services\\CrewGraphService.cs",
+              "ToolTip": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\ThirdTask\\Services\\CrewGraphService.cs",
+              "RelativeToolTip": "TestAssignment\\ThirdTask\\Services\\CrewGraphService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T23:33:33.031Z"
+              "WhenOpened": "2025-06-22T23:28:59.64Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "PlanetNotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\SecondTask\\Exceptions\\PlanetNotFoundException.cs",
-              "RelativeDocumentMoniker": "TestAssignment\\SecondTask\\Exceptions\\PlanetNotFoundException.cs",
-              "ToolTip": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\SecondTask\\Exceptions\\PlanetNotFoundException.cs",
-              "RelativeToolTip": "TestAssignment\\SecondTask\\Exceptions\\PlanetNotFoundException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T23:30:40.998Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CrewGraphService.cs",
-              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\ThirdTask\\Services\\StarTrek\\CrewGraphService.cs",
-              "RelativeDocumentMoniker": "TestAssignment\\ThirdTask\\Services\\StarTrek\\CrewGraphService.cs",
-              "ToolTip": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\ThirdTask\\Services\\StarTrek\\CrewGraphService.cs",
-              "RelativeToolTip": "TestAssignment\\ThirdTask\\Services\\StarTrek\\CrewGraphService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T23:28:59.64Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "SwapiAndStartrekTasks.csproj",
               "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\SwapiAndStartrekTasks.csproj",
               "RelativeDocumentMoniker": "TestAssignment\\SwapiAndStartrekTasks.csproj",
@@ -121,12 +116,11 @@
               "RelativeToolTip": "TestAssignment\\SwapiAndStartrekTasks.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-22T23:17:24.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T23:17:24.293Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\DuplicatesTask\\Program.cs",
               "RelativeDocumentMoniker": "DuplicatesTask\\Program.cs",
@@ -138,15 +132,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "CrewMember.cs",
-              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\ThirdTask\\Models\\StarTrek\\CrewMember.cs",
-              "RelativeDocumentMoniker": "TestAssignment\\ThirdTask\\Models\\StarTrek\\CrewMember.cs",
-              "ToolTip": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\ThirdTask\\Models\\StarTrek\\CrewMember.cs",
-              "RelativeToolTip": "TestAssignment\\ThirdTask\\Models\\StarTrek\\CrewMember.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\ThirdTask\\Models\\CrewMember.cs",
+              "RelativeDocumentMoniker": "TestAssignment\\ThirdTask\\Models\\CrewMember.cs",
+              "ToolTip": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\ThirdTask\\Models\\CrewMember.cs",
+              "RelativeToolTip": "TestAssignment\\ThirdTask\\Models\\CrewMember.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T23:30:47.418Z"
+              "WhenOpened": "2025-06-22T23:30:47.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StarshipService.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\SecondTask\\Services\\StarshipService.cs",
+              "RelativeDocumentMoniker": "TestAssignment\\SecondTask\\Services\\StarshipService.cs",
+              "ToolTip": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\SecondTask\\Services\\StarshipService.cs",
+              "RelativeToolTip": "TestAssignment\\SecondTask\\Services\\StarshipService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T23:33:33.643Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -156,25 +164,38 @@
               "RelativeDocumentMoniker": "TestAssignment\\Program.cs",
               "ToolTip": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\Program.cs",
               "RelativeToolTip": "TestAssignment\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAUwEIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-22T07:24:19.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StarshipService.cs",
-              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\SecondTask\\Services\\Swapi\\StarshipService.cs",
-              "RelativeDocumentMoniker": "TestAssignment\\SecondTask\\Services\\Swapi\\StarshipService.cs",
-              "ToolTip": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\SecondTask\\Services\\Swapi\\StarshipService.cs",
-              "RelativeToolTip": "TestAssignment\\SecondTask\\Services\\Swapi\\StarshipService.cs",
+              "DocumentIndex": 8,
+              "Title": "PlanetNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\SecondTask\\Exceptions\\PlanetNotFoundException.cs",
+              "RelativeDocumentMoniker": "TestAssignment\\SecondTask\\Exceptions\\PlanetNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\SecondTask\\Exceptions\\PlanetNotFoundException.cs",
+              "RelativeToolTip": "TestAssignment\\SecondTask\\Exceptions\\PlanetNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T23:33:33.643Z"
+              "WhenOpened": "2025-06-22T23:30:40.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
+              "Title": "SwapiService.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\SecondTask\\Services\\SwapiService.cs",
+              "RelativeDocumentMoniker": "TestAssignment\\SecondTask\\Services\\SwapiService.cs",
+              "ToolTip": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\SecondTask\\Services\\SwapiService.cs",
+              "RelativeToolTip": "TestAssignment\\SecondTask\\Services\\SwapiService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T23:33:33.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CrewGraphTask.cs",
               "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\SecondTask\\CrewGraphTask.cs",
               "RelativeDocumentMoniker": "TestAssignment\\SecondTask\\CrewGraphTask.cs",
@@ -182,11 +203,12 @@
               "RelativeToolTip": "TestAssignment\\SecondTask\\CrewGraphTask.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAmwAMAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T16:49:34.598Z"
+              "WhenOpened": "2025-06-22T16:49:34.598Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\appsettings.json",
               "RelativeDocumentMoniker": "TestAssignment\\appsettings.json",
@@ -198,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\TestAssignment\\TestAssignment\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "TestAssignment\\Properties\\launchSettings.json",

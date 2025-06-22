@@ -1,7 +1,7 @@
 ﻿using System.Text.Json;
-using TestAssignment.Models.Swapi;
+using SwapiAndStartrekTasks.SecondTask.Models;
 
-namespace TestAssignment.Services.Swapi
+namespace SwapiAndStartrekTasks.SecondTask.Services
 {
 
     public class SwapiService

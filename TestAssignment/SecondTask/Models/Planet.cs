@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace TestAssignment.Models.Swapi
+namespace SwapiAndStartrekTasks.SecondTask.Models
 {
     public class Planet
     {
